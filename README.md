@@ -12,11 +12,6 @@
 - 👨‍💻 I’m currently learning Backend development
 - 📫 How to reach me: gautham232@gmail.com
 
-
-### 🖥 Skills
-
-- Web Development,
-- Frontend
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) ![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535) ![Bootstrap](https://img.shields.io/badge/-Redux-05122A?style=flat-square&logo=Redux&color=353535) ![Bootstrap](https://img.shields.io/badge/-Node-05122A?style=flat-square&logo=Node&color=353535) ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=Express&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535)
